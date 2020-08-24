@@ -1,0 +1,17 @@
+{
+  "title": "About",
+  "path": "/about",
+  "blocks": [
+    {
+      "_template": "TitleBlock",
+      "title": "",
+      "underline": true,
+      "content": ""
+    },
+    {
+      "content": "<b>Mission:</b> \n\n To provide a pragmatic, solid and broad educational foundation where our children will be equipped with the necessary skills to excel in their various fields of study. \n\n \n\n<b>Vision:</b> \n\nTo raise children with sound moral and spiritual standards. \n\n<b>Our School:</b> \n\n We offer four(4) categories of basic education \n - Day Care (creche) \n\n - Pre School (Reception) \n\n - Nursery (Kindergarten) \n\n - Primary (Grades 1-5) \n\n<b>Our Curriculum:</b> \n\n - Sunrise Keepers Infant and Junior school offers a blend of Nigerian and international curriculum to provide for versatililty and excellence \n\n - Jolly phonics system \n\n<b>Facilities:</b> \n\n - We maintain a colourful and attractive environment with a spacious playground recreation and physical education \n\n - Equipped science laboratory \n\n - Standard library with Books on Countries Geopgraphy, History, Animals, Science, Sport, Religion Plants etc \n\n - Internet Ready Computer Laboratory \n\n - Educative and interactive Toys/Colourful Charts \n\n - T.V Room with DVD Players \n\n -  Games / Recreational facilities \n\n - Audio / Visual Learning Aids \n\n - Indoor intelligence and Vocabulary building Games - Scrabble, Chess, Monopoly \n\n - Music Training Facilities - Keyboard, Recorders and Drum set etc \n\n - Bus Services \n\n<b>Our Staff:</b> \n\n - Qualified and graduate teachers who are exposed to periodic and refresher training courses \n\n - All our teaching staff have been certified by the National Centre for Educational Management and Administration, (NCEMA) Abuja and the school has been accredited as a Training Compliant by NCEMA \n\n - Our teachers teach and mind after children with the fear of God \n\n<b>Our Educational Practice:</b> \n\n - Every child is trained in moral instruction and discipline \n\n - We train on Social and Citizenship education to build commitment to service and national pride \n\n - Character and Etiquettes is part of our educational practice \n\n - Mastery of English Grammar/Spellings \n\n - Intellectual Stimulation \n\n - Supervised outdoor activities \n\n - Good hygeine \n\n - Two(2) adults to Ten(10) pupils in our Nursery classes \n\n<b>Extra - curricular activities:</b> \n\n - Language Club \n\n - Red Cross Club \n\n - Computer/IT Club \n\n - Excursion Trips/Education Tours \n\n - Music/Drama Club \n\n - Debating Club \n\n<b>What Makes Us Different:</b> \n\n - Our School is located in a serene environment completely free from noise pollution and motorise inteference \n\n - We provide complete and total learning by the use of diverse teaching methods \n\n - We recognize that each child has a unique learning style so we adopt an interactive learning method to balance the education needs of each child \n\n<b>SUNRISE SCHOOL ANTHEM:</b> \n\n - Legacies of Excellence \n\n - The Pride of Sunrise Keepers \n\n - We should be a light to the world, wherever we go \n\n - We, the Sunrise Children \n\n - The legacies of excellence, \n\n - If God be for you and I, \n\n - Who can be against us? \n\n - Legacies of excellence (3x) \n\n - We'll make Nigeria great. \n\n \n\n - We are the future leaders (3x) \n\n - Children of Sunrise Keepers",
+      "_template": "ContentBlock"
+    }
+  ],
+  "displayTitle": true
+}
