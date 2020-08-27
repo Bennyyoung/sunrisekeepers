@@ -6,7 +6,7 @@ import { transparentize } from "polished"
 import { Nav } from "./nav"
 import { ThemeContext } from "./theme"
 import { Link } from "gatsby"
-import logo from "./logo.jpeg"
+import logo from "./IOGT_logo.jpeg"
 
 export const Header = styled(({ siteTitle, ...styleProps }) => {
   return (
@@ -107,6 +107,7 @@ export const SiteTitle = styled.h1`
 export const HeaderWrapper = styled(Wrapper)`
   display: flex;
   align-self: stretch;
+  margin-left: 5px;
   justify-content: space-between;
   align-items: center;
   height: 100%;

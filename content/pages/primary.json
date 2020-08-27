@@ -1,0 +1,7 @@
+{
+    "path": "/primary",
+    "title": "Primary",
+    "hero": {
+        "image": "../images/girl_with_pet.jpeg"
+    }
+}

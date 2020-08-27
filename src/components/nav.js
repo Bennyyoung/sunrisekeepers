@@ -43,12 +43,7 @@ export const Nav = ({ toggleDarkMode, isDarkMode }) => {
           />
         </NavItem>
       
-          <a href="tel:undefined" style={{fontSize:"13px"}}>
-          +234 706 549 5376 | 
-          </a>
-        <a href="mailto:info@sunrisekeepersschool.org" style={{fontSize:"13px"}}>
-          info@sunrisekeepersschool.org
-        </a>
+          
 
         
        
@@ -154,7 +149,7 @@ export const NavLink = styled(({ children, ...styleProps }) => (
   position: relative;
   text-align: center;
   text-transform: uppercase;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   letter-spacing: 0.5px;
   text-decoration: none;
   color: inherit !important;
@@ -367,7 +362,7 @@ export const NavToggle = styled(({ menuOpen, ...styleProps }) => {
   color: inherit;
   cursor: pointer;
   margin-left: 1rem;
-  font-size: 0.8rem;
+  font-size: 0.5rem;
   line-height: 1;
   align-self: stretch;
   text-transform: uppercase;

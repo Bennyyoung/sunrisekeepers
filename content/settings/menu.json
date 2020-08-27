@@ -9,12 +9,24 @@
       "link": "/about"
     },
     {
-      "label": "Payment",
-      "link": "/payment"
+      "label": "Pre-School",
+      "link": "/pre-school"
     },
     {
-      "label": "Mission",
-      "link": "/mission"
+      "label": "Nursery",
+      "link": "/nursery"
+    },
+    {
+      "label": "Primary",
+      "link": "/primary"
+    },
+    {
+      "label": "Secondary",
+      "link": "/secondary"
+    },
+    {
+      "label": "Fees and Payments",
+      "link": "/payments"
     },
     {
       "label": "Contact",

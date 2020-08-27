@@ -34,5 +34,8 @@
       "content": ""
     }
   ],
+  "hero": {
+    "image": "../images/girl_with_pet.jpeg"
+  },
   "displayTitle": true
 }

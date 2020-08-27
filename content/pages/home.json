@@ -7,8 +7,8 @@
     }
   ],
   "hero": {
-    "headline": "SUNRISE KEEPERS \n\n INFANT AND JUNIOR SCHOOL",
-    "textline": "Building Legacies Of Excellence",
+    "headline": "International Organisation Of Good Templers",
+    "textline": "A solid Foundation For Every Child",
     "ctas": [
       {
         "label": "Read The Blog",
@@ -23,7 +23,7 @@
         "primary": false
       }
     ],
-    "image": "../images/office_excursion.jpg",
+    "image": "../images/girl_with_pet.jpeg",
     "large": true
   },
   "displayTitle": false,
